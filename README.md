@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, DL, DIP,...
 - ✅ I'm currently working on image processing, machine learning, and computer vision through foundation models.
 - Reach me out via:
-- 📧 [gmail](najafi.mohamad.sh@gmail.com)
+- 📧[najafi.mohamad.sh@gmail.com](mailto:najafi.mohamad.sh@gmail.com)
 - 🌐[linkedin](https://www.linkedin.com/in/mohamad-najafi-3b9176122/)
 - 🔗[Google scholar](https://scholar.google.com/citations?user=yu-rqSYAAAAJ&hl=en&oi=sra)
 <!---

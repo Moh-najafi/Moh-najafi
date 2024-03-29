@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moh-najafi
 - 👀 I’m interested in ML, DL, DIP,...
-- 💞
+- 
 - 📫 Reach me with najafi.mohamad.sh@gmail.com
 
 <!---

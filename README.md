@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Moh-najafi
-- 👀 I’m interested in ML, DL, DIP,...
-- ✅ I'm currently working on image processing, computer vision through foundation models
+- 👋 Hi, I’m @Moh-najafi.
+- 👀 I’m interested in ML, DL, DIP,....
+- ✅ I'm currently working on image processing, machine learning, and computer vision through foundation models.
 - 📫➡️ Reach me with najafi.mohamad.sh@gmail.com
 
 <!---
